@@ -10,7 +10,7 @@ class Multimulti
      numbers_array.each do |x|
        answer *= x
      end
-        return answer
+         answer
     end
 
  end
